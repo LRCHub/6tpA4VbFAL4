@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Get Some",
+  "base_artist": "Snot",
+  "createdAt": "2026-02-17T12:25:18.486096Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Some",
+      "artist": "Lykke Li",
+      "has_synced": true,
+      "path": "select/01_Get_Some_Lykke_Li.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lemme Get Some",
+      "artist": "Amanda Blank feat. Chuck Inglish",
+      "has_synced": true,
+      "path": "select/02_Lemme_Get_Some_Amanda_Blank_feat._Chuck_Inglish.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lemme Get Some (Feat. Chuck Inglish)",
+      "artist": "Amanda Blank",
+      "has_synced": true,
+      "path": "select/03_Lemme_Get_Some_(Feat._Chuck_Inglish)_Amanda_Blank.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wanna Get Some Stuff",
+      "artist": "The Donnas",
+      "has_synced": false,
+      "path": "select/04_Wanna_Get_Some_Stuff_The_Donnas.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gotta Get Some Lovin'",
+      "artist": "Too $hort",
+      "has_synced": true,
+      "path": "select/05_Gotta_Get_Some_Lovin'_Too_$hort.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wona Get Some, I Got Some (feat. Tear Da Club Up Thugs & T-Rock)",
+      "artist": "Three 6 Mafia feat. Tear Da Club Up Thugs & T-Rock",
+      "has_synced": false,
+      "path": "select/06_Wona_Get_Some,_I_Got_Some_(feat._Tear_Da_Club_Up_Thugs_&_T-Rock)_Three_6_Mafia_feat._Tear_Da_Club_Up_Thugs_&_T-Rock.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wona Get Some, I Got Some (feat. Tear da Club Up Thugs & T-Rock)",
+      "artist": "Three 6 Mafia",
+      "has_synced": false,
+      "path": "select/07_Wona_Get_Some,_I_Got_Some_(feat._Tear_da_Club_Up_Thugs_&_T-Rock)_Three_6_Mafia.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can I Get Some Help",
+      "artist": "James Brown",
+      "has_synced": true,
+      "path": "select/08_Can_I_Get_Some_Help_James_Brown.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come and Get Some (feat. E-40)",
+      "artist": "SWV feat. E-40",
+      "has_synced": true,
+      "path": "select/09_Come_and_Get_Some_(feat._E-40)_SWV_feat._E-40.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come And Get Some",
+      "artist": "SWV",
+      "has_synced": true,
+      "path": "select/10_Come_And_Get_Some_SWV.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get Some",
+      "artist": "Ghosted feat. Kamille",
+      "has_synced": true,
+      "path": "select/11_Get_Some_Ghosted_feat._Kamille.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Some",
+      "artist": "Ghosted",
+      "has_synced": true,
+      "path": "select/12_Get_Some_Ghosted.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Get Some",
+      "artist": "Ghosted Kamille",
+      "has_synced": true,
+      "path": "select/13_Get_Some_Ghosted_Kamille.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Get Some Freedom (feat. Dragonette)",
+      "artist": "Big Data feat. Dragonette",
+      "has_synced": true,
+      "path": "select/14_Get_Some_Freedom_(feat._Dragonette)_Big_Data_feat._Dragonette.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Get Some Freedom (Feat. Dragonette)",
+      "artist": "Big Data",
+      "has_synced": true,
+      "path": "select/15_Get_Some_Freedom_(Feat._Dragonette)_Big_Data.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Get Some",
+      "artist": "k.d. lang",
+      "has_synced": false,
+      "path": "select/16_Get_Some_k.d._lang.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Come and Get Some of This",
+      "artist": "House of Pain",
+      "has_synced": false,
+      "path": "select/17_Come_and_Get_Some_of_This_House_of_Pain.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Get Some",
+      "artist": "Chevelle",
+      "has_synced": true,
+      "path": "select/18_Get_Some_Chevelle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Some",
+      "artist": "Snot",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Some_Snot.txt"
+    }
+  ]
+}
