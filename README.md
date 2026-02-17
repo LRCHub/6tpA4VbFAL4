@@ -1,0 +1,68 @@
+# Snot – Get Some
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+This sickness it burns inside me
+It sticks in my throat I'm
+gonna choke I cannot speak
+Besides it runs the fear of the
+unknown
+Could this be some reckoning
+Wrath for wrong I've done,
+comin' back to haunt me
+The God I have denied his power
+shown
+But now I can't protest
+although defiant heart it
+pounds deep in my chest
+I know that this will have its
+way with me
+For now I choose to go
+I know it's just the mind
+tryin' to interrupt my flow
+Intentions all fall down
+My soul has died
+Feed the greed, its not need I
+figure so what
+Can you fix the hole
+that resides deep in this gut
+Right now I need a drink so
+I'll fix myself whatever it
+takes I cannot wait
+Now, this will not die they
+warned me in church when I was
+young I could rely
+If there's a God, he's one I've
+never seen
+& now I just lament
+Did not held the threat I
+played the cards that I've been
+dealt
+Like putting out the fire with
+gasoline
+For when I used I lose won't
+face the fear of life without
+something abused
+That now I'm forced to find
+another way
+My show your final show
+A homicide I tried to warn, you
+should have known
+Now I'll take you with me
+Show you my pain
+Feed the need it's not greed, I
+figure so what
+You gonna tell me punk now
+uh-huh
+Can you fix the hole
+that resides deep in this gut
+I'll fix myself whatever it
+takes I cannot wait
+Come & get it, Come & get it,
+get some
+I feed the need that twists my
+mind
+Time & time again (gibberish)
+Come & get it
+```
